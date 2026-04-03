@@ -1,19 +1,21 @@
-# Real Estate Price Prediction 🏠
+# Machine Learning Projects
 
-## 📌 Description
-This project predicts real estate prices based on area using Machine Learning (Linear Regression) and is deployed using Streamlit.
+This repository contains multiple machine learning applications built using Python and Streamlit.
 
-## 🚀 Features
-- Input property area
-- Predict price instantly
-- Simple UI using Streamlit
+## Projects Included
 
-## 🛠️ Tech Stack
+1. Real Estate Price Prediction
+2. Loan Eligibility Prediction
+3. Customer Segmentation (Clustering)
+4. Student Score Prediction (Neural Network)
+
+## Technologies Used
 - Python
-- Scikit-learn
 - Streamlit
+- Scikit-learn
+- Pandas
 
-## ▶️ How to Run
-```bash
-pip install -r requirements.txt
+## How to Run
+
+cd project_folder
 python -m streamlit run app.py
